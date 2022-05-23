@@ -1,0 +1,24 @@
+.toolBar {
+    margin: 1rem auto;
+    border-radius: 12px;
+    text-align: center;
+    color: white !important;
+    justify-content: right !important;
+    display:flex !important;
+  }
+
+.searchBar {
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 1px 8px rgba(254, 254, 254, 0.291);
+   }
+
+
+  .actionsButton {
+      color: #03001e;
+  }
+
+  .input_search {
+      color: aliceblue !important;
+      border-color: aliceblue;
+  }

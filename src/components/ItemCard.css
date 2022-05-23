@@ -1,0 +1,16 @@
+.item-card {
+  border-radius: 12px;
+  box-shadow: 0 1px 8px rgba(247, 244, 244, 0.412);
+  margin: 2%;
+  min-width: 20%;
+  min-height: 300px !important;
+}
+
+.box {
+  width: 40%;
+}
+
+
+.img:hover {
+  transform: scale(1.5);
+}

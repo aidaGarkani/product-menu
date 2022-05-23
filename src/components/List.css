@@ -1,0 +1,16 @@
+.list {
+    padding: 1rem;
+    background-color: rgba(26, 34, 74, 0.339);
+    margin: 8rem auto;
+    max-width: 95%;
+    min-width: 95%;
+    max-height: auto;
+    min-height: 1000px !important;
+    float: left;
+  }
+
+  .list-title {
+    color: aliceblue;
+    width: 10%;
+  }
+  
