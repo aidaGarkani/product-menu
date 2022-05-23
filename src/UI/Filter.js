@@ -39,7 +39,7 @@ const Filter = ({ items, setSearch, searchData }) => {
                 <TextField
                     className='searchBar'
                     id="outlined-basic"
-                    label="Filter $"
+                    label="Filter with price"
                     variant="outlined"
                     value={searchData}
                     onChange={e => setSearch(e.target.value)}
