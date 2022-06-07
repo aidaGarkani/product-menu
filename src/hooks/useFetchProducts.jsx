@@ -9,7 +9,6 @@ const useFetchProducts = () => {
   useEffect(() => {
     setLoading(true);
     (async () => {
-
       try {
         const resp = await ProductService.fetchProducts();
         setData(resp);
